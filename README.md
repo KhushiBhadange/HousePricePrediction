@@ -1,7 +1,5 @@
 ## Predicting King County House Prices with Multiple Regression  Analysis
-<b>Author:</b> Avonlea Fisher
 
-<b>Blog Post:</b> https://medium.com/analytics-vidhya/predicting-king-county-house-prices-with-multiple-linear-regression-84de5feeafb2
 ### Problem:
 The aim of this analysis is to build a multiple regression model that can predict house prices with the greatest accuracy possible. The results can inform home owners interested in selling their homes about the most important factors to consider for improving sale prices.
 ### Data
